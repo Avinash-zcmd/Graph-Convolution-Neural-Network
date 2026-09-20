@@ -22,9 +22,9 @@ Consists of three microarchitecture stages integrated with registered I/O bounda
 
 ## Results and Outcome:
 The design successfully passed full ASIC implementation with zero violations.
-**Clock Frequency and Latency:** Total execution time of **600 clock cycles**, satisfied the low latency requirement of **< 100 ns**.
-**Timing Constrains:** **Zero setup and hold violations** with a small margin of positive slack in post Synthesis and post Auto Place & Route CTS.
-**Physical Design:** Achieved **100% clean DRC and LVS** verification with zero manufacturing or schematic mismatch errors.
-**Interface Design:** Registered boundary flip flops validated for noise immunity and clean integration into SoC environments.
+1. **Clock Frequency and Latency:** Total execution time of **600 clock cycles**, satisfied the low latency requirement of **< 100 ns**.
+2. **Timing Constrains:** **Zero setup and hold violations** with a small margin of positive slack in post Synthesis and post Auto Place & Route CTS.
+3. **Physical Design:** Achieved **100% clean DRC and LVS** verification with zero manufacturing or schematic mismatch errors.
+4. **Interface Design:** Registered boundary flip flops validated for noise immunity and clean integration into SoC environments.
 
 **Through this project, I gained hands on experience in the complete RTL to GDSII ASIC design flow. Verilog architecture, logic synthesis, floorplanning, CTS, timing analysis, and physical design while optimizing dedicated hardware for sparse AI workloads.**
