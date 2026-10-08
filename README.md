@@ -1,7 +1,7 @@
 # Graph-Convolution-Neural-Network
 ASIC Design Flow: Verilog RTL to GDSII Physical Implementation
 
-## Problem Statement
+## Problem Statement:
 Graph Neural Networks and GCNs require processing complex, non regular data structures that lead to significant memory bandwidth bottlenecks and compute inefficiencies on traditional general purpose processors (CPUs/GPUs). Key challenges include:
 1. **Irregular memory pattern access**
 2. **Strict Latency Constrains**
